@@ -2,6 +2,8 @@
 
 ## Overview
 
+This project was my first project i ever build, and although its extreemly slow, and the fourth engine is not complete, it was the first domino, so ive chosen to make it public even though it is quite embarassing.
+
 This project is a multi-AI chatbot management platform that enables users to interact with multiple AI services (ChatGPT, Claude, Mistral, Gemini) simultaneously through a unified web interface. The system serves developers, researchers, and power users who need to:
 
 - **Compare AI responses** across different models for the same query
