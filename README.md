@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a sophisticated multi-AI chatbot management platform that enables users to interact with multiple AI services (ChatGPT, Claude, Mistral, Gemini) simultaneously through a unified web interface. The system serves developers, researchers, and power users who need to:
+This project is a multi-AI chatbot management platform that enables users to interact with multiple AI services (ChatGPT, Claude, Mistral, Gemini) simultaneously through a unified web interface. The system serves developers, researchers, and power users who need to:
 
 - **Compare AI responses** across different models for the same query
 - **Maintain conversation context** using semantic embeddings and historical data
